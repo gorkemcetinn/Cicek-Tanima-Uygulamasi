@@ -1,4 +1,3 @@
-# my_tflit_app
 
 A new Flutter project.
 
